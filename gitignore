@@ -1,0 +1,17 @@
+# Arduino / build
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# Captured logs (keep your own if you want them tracked)
+*.log
+duke390_rec_*.log
+duke390_candump.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
